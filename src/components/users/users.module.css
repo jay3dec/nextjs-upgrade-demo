@@ -1,0 +1,10 @@
+.name{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.deleteBtn{
+    border: none;
+    background-color: transparent;
+}
